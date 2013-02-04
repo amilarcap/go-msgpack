@@ -33,7 +33,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 package msgpack
 
 import (
-	"launchpad.net/mgo/bson"
+	"labix.org/v2/mgo/bson"
 	"encoding/json"
 	"encoding/gob"
 	"testing"
